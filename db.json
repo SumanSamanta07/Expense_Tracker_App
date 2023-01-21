@@ -1,0 +1,62 @@
+{
+    "accessKey": "75280e78-97ba-11ed-a815-842afdd07ecc",
+    "secretKey": "92a6ec8b-4613-4d68-881d-900e9c1dd4f3",
+    "item_type": [
+        "Food",
+        "Beverages",
+        "Clothing",
+        "Stationaries",
+        "Wearables",
+        "Electronics Accesories"
+    ],
+    "users": [
+        {
+            "name": "Suman Samanta",
+            "email": "sumansamanta362001@gmail.com",
+            "password": "54321",
+            "username": "s_samanta",
+            "purchases": {
+                "2023-01-19": [
+                    {
+                        "Purchase Time": "2023-01-19 11:14:29.327143+05:30",
+                        "item_type": "Food",
+                        "item_name": "bread",
+                        "item_price": "40"
+                    }
+                ],
+                "2023-01-21": [
+                    {
+                        "Purchase Time": "2023-01-21 17:49:42.266190+05:30",
+                        "item_type": "Wearables",
+                        "item_name": "Tshirt",
+                        "item_price": "400"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Soham Sabud",
+            "email": "soham10gmail.com",
+            "password": "654321",
+            "username": "s_sabud",
+            "purchases": {
+                "2023-01-19": [
+                    {
+                        "Purchase Time": "2023-01-19 11:15:01.214970+05:30",
+                        "item_type": "Beverage",
+                        "item_name": "coco cola",
+                        "item_price": "40"
+                    }
+                ],
+                "2023-01-21": [
+                    {
+                        "Purchase Time": "2023-01-21 17:51:09.062941+05:30",
+                        "item_type": "food",
+                        "item_name": "Burger",
+                        "item_price": "150"
+                    }
+                ]
+            }
+        }
+    ]
+}
